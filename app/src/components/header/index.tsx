@@ -61,6 +61,7 @@ export const Header: React.FC = () => {
         align="center"
         sx={{ height: "100%", }}
       >
+        <a target={"_blank"} title={"Visit the author's website, he worked hard on Keygeny!"} href={"https://tylery.com"}><Badge variant={"outline"}>Tyler's Site 😁</Badge></a>
         <a target={"_blank"} href={"https://keygen.sh/docs/api/"}><Badge variant={"outline"}>API Docs</Badge></a>
         {
           apiUrl &&
