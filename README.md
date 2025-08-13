@@ -3,7 +3,7 @@
 ## What is Keygeny?
 
 <div align="center">
-    <a href="https://keygen.tylery.com/">App</a> |
+    <a href="https://keygeny.tylery.com/">App</a> |
     <a href="https://app.sharefable.com/live/demo/keygeny-rscr0j97gqzqchj0">Walkthrough</a>
 </div>
 
